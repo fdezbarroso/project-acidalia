@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="DragDropController">
+    <Position X="0.5" Y="5" Width="2.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="1.191" />
+        <Point X="1.25" Y="1.625" />
+        <Point X="3.557" Y="1.625" />
+        <Point X="3.557" Y="6.438" />
+        <Point X="3.25" Y="6.438" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAABAAAAAAAAAAAAICQAAAAAAAgAACAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\DragDropController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryController">
+    <Position X="0.5" Y="2" Width="2.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="1.191" />
+        <Point X="1.25" Y="1.625" />
+        <Point X="2.125" Y="1.625" />
+        <Point X="2.125" Y="2" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAIAAAAAAAgACAAAAAAAAAAAABAAAQAAEA=</HashCode>
+      <FileName>Assets\Scripts\InventoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryPanelShopBuy">
+    <Position X="0.5" Y="8" Width="2.75" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="1.191" />
+        <Point X="1.25" Y="1.625" />
+        <Point X="3.562" Y="1.625" />
+        <Point X="3.562" Y="9.25" />
+        <Point X="3.25" Y="9.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAACAQAAAAAAACAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\InventoryPanelShopBuy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventorySlot" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACgAAAAAAAAEAAAAAEAAAAAAIAAAAAAABAEA=</HashCode>
+      <FileName>Assets\Scripts\InventorySlot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="InventorySlotShop" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="5.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAEAAAAAEAAAAAAIAAAAAAABAEA=</HashCode>
+      <FileName>Assets\Scripts\InventorySlotShop.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ItemSlot">
+    <Position X="4.25" Y="8.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAQAAAAAAAAAgAAAYAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ItemSlot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickUpItem">
+    <Position X="7.5" Y="4" Width="2.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="1.25" Y="1.191" />
+        <Point X="1.25" Y="1.625" />
+        <Point X="7.432" Y="1.625" />
+        <Point X="7.432" Y="3.721" />
+        <Point X="8.75" Y="3.721" />
+        <Point X="8.75" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAACgABAAAAAQAAAAAAEAAgQABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PickUpItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChestInventory">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChestInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="UnityEngine.EventSystems.IPointerClickHandler" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

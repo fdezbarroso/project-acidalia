@@ -1,0 +1,4 @@
+repository "Project Acidalia@ekil1fiti@cloud"
+  path "/"
+    br "/main"
+    co "/main"

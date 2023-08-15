@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Crops">
+    <Position X="7.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Crops.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CropsManager">
+    <Position X="6.75" Y="9" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AA0gFgAAAAoAAAgAIEAIgAACAAAAAEIABACCAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\CropsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DayNightController">
+    <Position X="3.75" Y="10.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAIAAAAAAAAAAAAQAAAQAACACAAAAqAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\DayNightController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="0.5" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAACAAAAIAAAADQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverController">
+    <Position X="3" Y="14.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\GameOverController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InteractMarkerController">
+    <Position X="7" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAAAAAAAABAAAAAAAAgAAAAAAAAACAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\InteractMarkerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ItemSpawnManager">
+    <Position X="10.75" Y="7.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAACAAAAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ItemSpawnManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="4.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="4" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAgAEAAAEAAAAAAAAAAAAAQABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerInteractController">
+    <Position X="7" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAACEABAAAIAAIAAAAAABEABAEAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerInteractController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerResourceController">
+    <Position X="3.75" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAQAAAgAAAAAAAAAAAAIgAAIAAAAAAAAAAABAAEGA=</HashCode>
+      <FileName>Assets\Scripts\PlayerResourceController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerToolController">
+    <Position X="11.25" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AASAAYAAgAAAAAQUAAAIAQIABAAAAAANEAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerToolController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SFX">
+    <Position X="0.5" Y="9.5" Width="2.25" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="6.5" Y="1.191" />
+        <Point X="6.5" Y="1.625" />
+        <Point X="0.315" Y="1.625" />
+        <Point X="0.315" Y="9.346" />
+        <Point X="1.625" Y="9.346" />
+        <Point X="1.625" Y="9.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAGggAAAAAAAAQgEgKIAAQAEAAAAAABAgAAEgA=</HashCode>
+      <FileName>Assets\Scripts\SFX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StartGameController">
+    <Position X="5" Y="14.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\StartGameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatusIndicators">
+    <Position X="0.5" Y="5.25" Width="2.5" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="6.5" Y="1.191" />
+        <Point X="6.5" Y="1.625" />
+        <Point X="0.303" Y="1.625" />
+        <Point X="0.303" Y="5.058" />
+        <Point X="1.75" Y="5.058" />
+        <Point X="1.75" Y="5.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAggAAIAACBiAgAACAAAAAAAQAAAAAAEo=</HashCode>
+      <FileName>Assets\Scripts\StatusIndicators.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileMapController">
+    <Position X="10" Y="10" Width="4.25" />
+    <InheritanceLine Type="UnityEngine.MonoBehaviour" ManuallyRouted="true">
+      <Path>
+        <Point X="6.5" Y="1.191" />
+        <Point X="6.5" Y="1.629" />
+        <Point X="11.101" Y="1.629" />
+        <Point X="11.101" Y="7.001" />
+        <Point X="9.839" Y="7.001" />
+        <Point X="9.839" Y="9.797" />
+        <Point X="12.125" Y="9.797" />
+        <Point X="12.125" Y="10" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAIAAAAAggAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\TileMapController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileMarkerController">
+    <Position X="10.75" Y="13.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAQAAAAAAAAAIAAAAAAAAAAAAAAAAACAAAAAgEA=</HashCode>
+      <FileName>Assets\Scripts\TileMarkerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

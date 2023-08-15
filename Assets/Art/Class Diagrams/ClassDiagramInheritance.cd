@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Interactable">
+    <Position X="11.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interactable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryPanel">
+    <Position X="4" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECgAACAQAAEAAAACAAAAAAAKAAACAAAACEA=</HashCode>
+      <FileName>Assets\Scripts\InventoryPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryPanelChest">
+    <Position X="2.25" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\InventoryPanelChest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryPanelPlayer">
+    <Position X="4.25" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\InventoryPanelPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryPanelShopSell">
+    <Position X="6.25" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAACAAAQAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Scripts\InventoryPanelShopSell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlantGatherable">
+    <Position X="17.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAoAAAgAAAAAAAAAAAAAAAIAAACAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlantGatherable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopInteract">
+    <Position X="8.75" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAAAAAAAAQIAQAIAAAAAAIAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ShopInteract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolGather">
+    <Position X="17.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ToolGather.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChestInteract">
+    <Position X="11.25" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAgASAEIAAAAAAAAAAAACAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ChestInteract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BedInteract">
+    <Position X="13.75" Y="4" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIAAAgAAAAAAAACAAAAIAAAAAAAAABACAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\BedInteract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
